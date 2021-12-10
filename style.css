@@ -76,3 +76,10 @@ p {
   opacity: 1;
   cursor: pointer;
 }
+
+@media screen and (max-width: 450px){
+  .card-style {
+    width: 20rem;
+    border-radius: 1.75rem;
+  }
+}
